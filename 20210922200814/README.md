@@ -1,0 +1,21 @@
+# Basic Japanese Vocabulary - Part 2
+1. 今日 (kyou) -> today  
+1. 昨日 (kinou) -> yesterday   
+1. 明日 (ashita) -> tomorrow  
+1. 週 (shuu) -> week  
+1. 年 (toshi) -> year  
+1. 秒 (byou) -> second  
+1. 分 (fun) -> minute  
+1. 時間 (jikan) -> hour  
+1. 時計 (tokei) -> clock  
+1. 時 (ji) -> o'clock
+1. カレンダー (karendaa) -> calendar  
+1. 月曜日 (getsu-youbi) -> Monday  
+1. 火曜日 (ka-youbi) -> Tuesday  
+1. 水曜日 (sui-youbi) -> Wednesday  
+1. 木曜日 (moku-youbi) -> Thursday  
+1. 金曜日 (kin-youbi) -> Friday  
+1. 土曜日 (do-youbi) -> Saturday  
+1. 日曜日 (nichi-youbi) -> Sunday  
+1. する (suru) -> do  
+1. 行く (iku) -> go  
